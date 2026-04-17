@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/B7/B7.iml" filepath="$PROJECT_DIR$/B7/B7.iml" />
       <module fileurl="file://$PROJECT_DIR$/B9/B9.iml" filepath="$PROJECT_DIR$/B9/B9.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS2026.iml" filepath="$PROJECT_DIR$/CTS2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoffeShopTemplate/CoffeShopTemplate.iml" filepath="$PROJECT_DIR$/CoffeShopTemplate/CoffeShopTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearningStartegy/LearningStartegy.iml" filepath="$PROJECT_DIR$/LearningStartegy/LearningStartegy.iml" />
       <module fileurl="file://$PROJECT_DIR$/LivrareStrategica/LivrareStrategica.iml" filepath="$PROJECT_DIR$/LivrareStrategica/LivrareStrategica.iml" />
       <module fileurl="file://$PROJECT_DIR$/MMA1/MMA1.iml" filepath="$PROJECT_DIR$/MMA1/MMA1.iml" />
@@ -27,10 +28,12 @@
       <module fileurl="file://$PROJECT_DIR$/Problema6ChatGPT/Problema6ChatGPT.iml" filepath="$PROJECT_DIR$/Problema6ChatGPT/Problema6ChatGPT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problema7ChatGPT/Problema7ChatGPT.iml" filepath="$PROJECT_DIR$/Problema7ChatGPT/Problema7ChatGPT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problema8ChatGPT/Problema8ChatGPT.iml" filepath="$PROJECT_DIR$/Problema8ChatGPT/Problema8ChatGPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Raport/Raport.iml" filepath="$PROJECT_DIR$/Raport/Raport.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReduceriStrategice/ReduceriStrategice.iml" filepath="$PROJECT_DIR$/ReduceriStrategice/ReduceriStrategice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ResponsabilitateFiscala/ResponsabilitateFiscala.iml" filepath="$PROJECT_DIR$/ResponsabilitateFiscala/ResponsabilitateFiscala.iml" />
       <module fileurl="file://$PROJECT_DIR$/SemaforulVesel/SemaforulVesel.iml" filepath="$PROJECT_DIR$/SemaforulVesel/SemaforulVesel.iml" />
       <module fileurl="file://$PROJECT_DIR$/StareLogare/StareLogare.iml" filepath="$PROJECT_DIR$/StareLogare/StareLogare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheITCrowd/TheITCrowd.iml" filepath="$PROJECT_DIR$/TheITCrowd/TheITCrowd.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZileFierbinti/ZileFierbinti.iml" filepath="$PROJECT_DIR$/ZileFierbinti/ZileFierbinti.iml" />
       <module fileurl="file://$PROJECT_DIR$/unFelDeA8/unFelDeA8.iml" filepath="$PROJECT_DIR$/unFelDeA8/unFelDeA8.iml" />
     </modules>
