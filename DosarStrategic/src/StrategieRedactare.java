@@ -1,0 +1,3 @@
+interface StrategieRedactare {
+    void redacteaza();
+}
