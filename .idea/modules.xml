@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/A2 - Simple Factory/A2-SImple Factory.iml" filepath="$PROJECT_DIR$/A2 - Simple Factory/A2-SImple Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/A3/A3.iml" filepath="$PROJECT_DIR$/A3/A3.iml" />
       <module fileurl="file://$PROJECT_DIR$/A4/A4.iml" filepath="$PROJECT_DIR$/A4/A4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A5/A5.iml" filepath="$PROJECT_DIR$/A5/A5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A6/A6.iml" filepath="$PROJECT_DIR$/A6/A6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A7/A7.iml" filepath="$PROJECT_DIR$/A7/A7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A8/A8.iml" filepath="$PROJECT_DIR$/A8/A8.iml" />
       <module fileurl="file://$PROJECT_DIR$/B1/B1.iml" filepath="$PROJECT_DIR$/B1/B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/B14/B14.iml" filepath="$PROJECT_DIR$/B14/B14.iml" />
       <module fileurl="file://$PROJECT_DIR$/B2/B2.iml" filepath="$PROJECT_DIR$/B2/B2.iml" />
@@ -18,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Clientela/Clientela.iml" filepath="$PROJECT_DIR$/Clientela/Clientela.iml" />
       <module fileurl="file://$PROJECT_DIR$/CoffeShopTemplate/CoffeShopTemplate.iml" filepath="$PROJECT_DIR$/CoffeShopTemplate/CoffeShopTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompetentaMateriala/CompetentaMateriala.iml" filepath="$PROJECT_DIR$/CompetentaMateriala/CompetentaMateriala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DosarComposite/DosarComposite.iml" filepath="$PROJECT_DIR$/DosarComposite/DosarComposite.iml" />
       <module fileurl="file://$PROJECT_DIR$/DosarStrategic/DosarStrategic.iml" filepath="$PROJECT_DIR$/DosarStrategic/DosarStrategic.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearningStartegy/LearningStartegy.iml" filepath="$PROJECT_DIR$/LearningStartegy/LearningStartegy.iml" />
       <module fileurl="file://$PROJECT_DIR$/LivrareStrategica/LivrareStrategica.iml" filepath="$PROJECT_DIR$/LivrareStrategica/LivrareStrategica.iml" />
